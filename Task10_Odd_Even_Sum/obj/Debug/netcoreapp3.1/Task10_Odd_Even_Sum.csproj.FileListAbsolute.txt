@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\bin\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.exe
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\bin\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.deps.json
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\bin\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\bin\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\bin\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.dll
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\bin\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.pdb
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\obj\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\obj\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\obj\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\obj\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\obj\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.dll
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\obj\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.pdb
+C:\Users\Kiril\source\repos\Lesson04\Task10_Odd_Even_Sum\obj\Debug\netcoreapp3.1\Task10_Odd_Even_Sum.genruntimeconfig.cache
